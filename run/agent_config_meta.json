@@ -1,0 +1,295 @@
+{
+  "security": {
+    "csrf": {
+      "enable": "/Users/xzx/workspace/egg-api/config/config.default.js",
+      "ignoreJSON": "/Users/xzx/workspace/egg-api/config/config.default.js",
+      "useSession": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/xzx/workspace/egg-api/config/config.default.js",
+    "protocolWhiteList": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "/Users/xzx/workspace/egg-api/config/config.default.js",
+    "allowMethods": "/Users/xzx/workspace/egg-api/config/config.default.js"
+  },
+  "keys": "/Users/xzx/workspace/egg-api/config/config.default.js",
+  "middleware": "/Users/xzx/workspace/egg-api/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/xzx/workspace/egg-api/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/xzx/workspace/egg-api/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/xzx/workspace/egg-api/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/xzx/workspace/egg-api/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/xzx/workspace/egg-api/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/xzx/workspace/egg-api/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/xzx/workspace/egg-api/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/xzx/workspace/egg-api/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/xzx/workspace/egg-api/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/xzx/workspace/egg-api/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/xzx/workspace/egg-api/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/xzx/workspace/egg-api/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/xzx/workspace/egg-api/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/xzx/workspace/egg-api/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/xzx/workspace/egg-api/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/xzx/workspace/egg-api/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/xzx/workspace/egg-api/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/xzx/workspace/egg-api/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/xzx/workspace/egg-api/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/xzx/workspace/egg-api/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/xzx/workspace/egg-api/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/xzx/workspace/egg-api/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/xzx/workspace/egg-api/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/xzx/workspace/egg-api/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/xzx/workspace/egg-api/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/xzx/workspace/egg-api/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/xzx/workspace/egg-api/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/xzx/workspace/egg-api/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/xzx/workspace/egg-api/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/xzx/workspace/egg-api/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/xzx/workspace/egg-api/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/xzx/workspace/egg-api/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/xzx/workspace/egg-api/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/xzx/workspace/egg-api/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/xzx/workspace/egg-api/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/xzx/workspace/egg-api/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/xzx/workspace/egg-api/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/xzx/workspace/egg-api/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/xzx/workspace/egg-api/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/xzx/workspace/egg-api/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/xzx/workspace/egg-api/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/xzx/workspace/egg-api/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/xzx/workspace/egg-api/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/xzx/workspace/egg-api/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/xzx/workspace/egg-api/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/xzx/workspace/egg-api/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/xzx/workspace/egg-api/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/xzx/workspace/egg-api/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/xzx/workspace/egg-api/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/xzx/workspace/egg-api/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/xzx/workspace/egg-api/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/xzx/workspace/egg-api/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/xzx/workspace/egg-api/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/xzx/workspace/egg-api/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/xzx/workspace/egg-api/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/xzx/workspace/egg-api/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/xzx/workspace/egg-api/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+  "name": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "version": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "description": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "private": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "mockjs": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "moment": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "url": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "stop": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "dev": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "debug": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "test": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "cov": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "lint": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "ci": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "autod": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "url": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "license": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "strict": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "depth": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "env": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "level": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "logging": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "port": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/xzx/workspace/egg-api/node_modules/egg/config/config.default.js"
+}

@@ -1,0 +1,50 @@
+2019-04-13 00:43:03,350 INFO 39816 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 00:43:03,350 INFO 39816 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 00:43:40,499 INFO 39826 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 00:43:40,499 INFO 39826 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 00:48:09,025 INFO 39897 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 00:48:09,025 INFO 39897 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 00:51:49,619 INFO 39958 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 00:51:49,619 INFO 39958 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 18:06:35,593 INFO 51555 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 18:06:35,594 INFO 51555 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 18:07:07,626 INFO 51569 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 18:07:07,626 INFO 51569 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 18:21:30,328 INFO 51742 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 18:21:30,328 INFO 51742 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 18:21:36,763 INFO 51743 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 18:21:36,763 INFO 51743 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 18:25:37,267 INFO 51771 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 18:25:37,267 INFO 51771 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 18:29:39,378 INFO 51865 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 18:29:39,378 INFO 51865 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 19:06:01,418 INFO 52296 [Timer] /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 17638586ms at 2019-04-14 00:00:00.004
+2019-04-13 19:06:01,419 INFO 52296 [Timer] /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17639581ms at 2019-04-14 00:00:01.000
+2019-04-13 19:06:01,197 INFO 52297 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 19:06:01,197 INFO 52297 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 19:11:13,537 INFO 52420 [Timer] /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 17326466ms at 2019-04-14 00:00:00.003
+2019-04-13 19:11:13,538 INFO 52420 [Timer] /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17327463ms at 2019-04-14 00:00:01.001
+2019-04-13 19:11:13,421 INFO 52421 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 19:11:13,421 INFO 52421 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 19:19:08,064 INFO 52538 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 19:19:08,064 INFO 52538 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 19:19:15,454 INFO 52540 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 19:19:15,454 INFO 52540 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 19:21:56,511 INFO 52585 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 19:21:56,511 INFO 52585 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 23:02:05,474 INFO 55043 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 23:02:05,474 INFO 55043 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 23:02:08,561 INFO 55045 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 23:02:08,561 INFO 55045 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 23:56:03,632 INFO 55682 [Timer] /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 236372ms at 2019-04-14 00:00:00.004
+2019-04-13 23:56:03,633 INFO 55682 [Timer] /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 237367ms at 2019-04-14 00:00:01.000
+2019-04-13 23:56:03,396 INFO 55683 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 23:56:03,396 INFO 55683 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-13 23:58:39,911 INFO 55709 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-13 23:58:39,911 INFO 55709 [egg-schedule]: register schedule /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-14 00:00:00,009 INFO 55709 [Job#15551712000072755504951459691] /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2019-04-14 00:00:00,020 INFO 55709 [Job#15551712000072755504951459691] /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 9ms
+2019-04-14 00:00:00,012 INFO 55682 [Timer] /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 86399992ms at 2019-04-15 00:00:00.004
+2019-04-14 00:00:01,008 INFO 55709 [Job#15551712010072755514951671991] /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2019-04-14 00:00:01,013 INFO 55709 [Job#15551712010072755514951671991] /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 5ms
+2019-04-14 00:00:01,011 INFO 55682 [Timer] /Users/xzx/workspace/egg-api/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86399993ms at 2019-04-15 00:00:01.004
